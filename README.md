@@ -100,7 +100,7 @@ That's enough for getting started. There are more steps in the
 [Travis CI Getting Started Guide](http://about.travis-ci.org/docs/user/getting-started/),
 fun stuff like connecting databases and customizing the execution.
 
-The .travis.yml file for this project looks like:
+The .travis.yml file for this project looks like this:
 
 ```
 language: python

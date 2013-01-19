@@ -5,3 +5,7 @@
 *egg-info
 .tox
 *.egg
+
+# Dependency installs
+*.tar.gz
+*.zip

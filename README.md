@@ -1,5 +1,7 @@
 # Pyproj: The minimal Python project
 
+![Travis Build Status](https://api.travis-ci.org/cabrera/pyproj.png?branch=master)
+
 pyproj was born as an experiment. The problem to solve: what does a
 Python project that supports...:
 

@@ -1,10 +1,5 @@
 # History (ideally automatically generated)
 
-## Version 0.3.0 (maybe date)
+## Version 1.0.0 (January 19, 2013)
 
-* Feature
-
-## Version 0.2.7
-
-* Feature
-* Feature
+* pyproj is born!

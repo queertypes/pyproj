@@ -1,0 +1,13 @@
+# If your project is open-source, take advantage
+# of CI/CD using Travis: https://travis-ci.org/
+language: python
+python:
+  - 2.6
+  - 2.7
+  - 3.2
+  - 3.3
+script: python setup.py test
+install:
+  - pip install pytest
+  - pip install .
+

@@ -1,0 +1,7 @@
+# Being a Python project, it's wise to ignore these...
+*.pyc
+*.pyo
+*__pycache__*
+*egg-info
+.tox
+*.egg

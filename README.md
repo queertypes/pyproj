@@ -40,7 +40,7 @@ page covers the following very briefly:
 
 ### pip
 
-pip is the Python package manager of choice, akin to:
+[pip](http://www.pip-installer.org/en/latest/) is the Python package manager of choice, akin to:
 
 * Ruby's gem
 * Haskell's cabal
@@ -69,7 +69,7 @@ for more details.
 
 ### pytest
 
-[pytest](pytest.org/latest/) is a Python a tool to discover and run tests. Here's how to use it on this project:
+[pytest](pytest.org/latest/) is a Python tool to discover and run tests. Here's how to use it on this project:
 
 ```bash
 py.test

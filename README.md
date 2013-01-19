@@ -15,9 +15,11 @@ Python project that supports...:
 
 ## How to contribute
 
-Know of some additional, open-source module/project pyproj isn't
-taking advantage of? Feel like adding documentation or examples? Is
-something not idiomatic? Send in a patch!
+* Know of some additional, open-source module/project pyproj isn't taking advantage of?
+* Feel like adding documentation or examples?
+* Is something not idiomatic?
+
+Send in a patch!
 
 ## Roadmap
 

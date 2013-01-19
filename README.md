@@ -1,4 +1,5 @@
 # Pyproj: The minimal Python project
+![Python Logo](http://www.python.org/community/logos/python-powered-w-200x80.png)
 
 ![Travis Build Status](https://api.travis-ci.org/cabrera/pyproj.png?branch=master)
 

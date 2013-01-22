@@ -69,9 +69,9 @@ for more details.
 
 ### pytest
 
-[pytest](pytest.org/latest/) is a Python tool to discover and run tests. Here's how to use it on this project:
+[pytest](http://pytest.org/latest/) is a Python tool to discover and run tests. Here's how to use it on this project:
 
-```bash
+```
 py.test
 == test session starts ==
 platform linux -- Python 3.3.0 -- pytest-2.3.4

@@ -11,9 +11,9 @@ The description is printed here.
 __title__ = 'requests'
 __version_tuple__ = ('1', '0', '0')
 __version__ = '.'.join(__version_tuple__)
-__author__ = 'Alejandro Cabrera'
+__author__ = 'Allele Dev'
 __license__ = 'BSD'
-__copyright__ = 'Copyright 2013 ' + __author__
+__copyright__ = 'Copyright 2016 ' + __author__
 
 # Perform any default initialization that your module requires
 # e.g., set up global loggers, authentication, connections, etc.

@@ -56,11 +56,11 @@ setup(
                      open('HISTORY.md').read(),
 
     # Primary author contact information. Must be strings.
-    author='Alejandro Cabrera',
-    author_email='cpp.cabrera@gmail.com',
+    author='Allele Dev',
+    author_email='allele.dev@gmail.com',
 
     # Project development URL
-    url='https://github.com/cabrera/pyproj',
+    url='https://github.com/queertypes/pyproj',
 
     # Additional files to bring in with the project
     data_files=[

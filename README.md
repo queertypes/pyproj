@@ -1,7 +1,7 @@
 # Pyproj: The minimal Python project
 ![Python Logo](http://www.python.org/community/logos/python-powered-w-200x80.png)
 
-![Travis Build Status](https://api.travis-ci.org/cabrera/pyproj.png?branch=master)
+![Travis Build Status](https://api.travis-ci.org/queertypes/pyproj.png?branch=master)
 
 pyproj was born as an experiment. The problem to solve: what does a
 Python project that supports...:
@@ -49,7 +49,7 @@ page covers the following very briefly:
 It's use is pretty straightforward:
 
 ```bash
-pip install git+https://github.com/cabrera/pyproj
+pip install git+https://github.com/queertypes/pyproj
 ```
 
 If a package is already registered in [PyPi](pypi.python.org), it's even easier:
